@@ -6,5 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println(l.MergeAlternately("ab", "pqrs"))
+	// fmt.Println(l.MergeAlternately("ab", "pqrs"))
+	fmt.Println(l.GroupAnagrams([]string{"eat", "tea", "tan", "ate", "nat", "bat"}))
 }
