@@ -8,5 +8,6 @@ import (
 func main() {
 	// fmt.Println(l.MergeAlternately("ab", "pqrs"))
 	// fmt.Println(l.GroupAnagrams([]string{"eat", "tea", "tan", "ate", "nat", "bat"}))
-	fmt.Println(l.FrequencySort("tree"))
+	// fmt.Println(l.FindDuplicate([]int{1, 3, 4, 2, 2}))
+	fmt.Println(l.NumSquares(12))
 }
