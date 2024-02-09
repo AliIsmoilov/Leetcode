@@ -1,4 +1,4 @@
-package programmingskills
+package februarychallenge
 
 import (
 	"sort"

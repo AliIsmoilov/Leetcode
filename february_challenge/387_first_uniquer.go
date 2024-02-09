@@ -1,4 +1,4 @@
-package programmingskills
+package februarychallenge
 
 // Input: s = "leetcode"
 // Output: 0
