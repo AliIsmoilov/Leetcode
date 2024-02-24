@@ -13,14 +13,14 @@ func MissingNumber(nums []int) int {
 
 	fmt.Println(orderedNums)
 	for _, v := range orderedNums {
-		if !isIncludes(nums, v) {
+		if !IsIncludes(nums, v) {
 			return v
 		}
 	}
 	return -1
 }
 
-func isIncludes(nums []int, n int) bool {
+func IsIncludes(nums []int, n int) bool {
 	for _, num := range nums {
 		if num == n {
 			return true
