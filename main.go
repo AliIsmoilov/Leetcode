@@ -13,5 +13,6 @@ func main() {
 	// fmt.Println(l.FurthestBuilding([]int{4, 2, 7, 6, 9, 14, 12}, 5, 1))
 	// fmt.Println(l.MissingNumber([]int{9, 6, 4, 2, 3, 5, 7, 0, 1}))
 	// fmt.Println(l.LengthOfLastWord("   fly me   to   the moon  "))
-	fmt.Println(l.IsIsomorphic("foo", "bar"))
+	// fmt.Println(l.IsIsomorphic("foo", "bar"))
+	fmt.Println(l.Reverse(-123))
 }
