@@ -22,7 +22,7 @@ func Reverse(x int) int {
 		x /= 10
 		result = result*10 + lastNum
 
-		if result > math.MaxInt32 && result < math.MinInt32 {
+		if result > math.MaxInt32 || result < math.MinInt32 {
 			return 0
 		}
 	}
