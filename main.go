@@ -14,5 +14,5 @@ func main() {
 	// fmt.Println(l.MissingNumber([]int{9, 6, 4, 2, 3, 5, 7, 0, 1}))
 	// fmt.Println(l.LengthOfLastWord("   fly me   to   the moon  "))
 	// fmt.Println(l.IsIsomorphic("foo", "bar"))
-	fmt.Println(l.Reverse(-123))
+	fmt.Println(l.MaxDepth("(1+(2*3)+((8)/4))+1"))
 }
