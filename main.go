@@ -15,5 +15,6 @@ func main() {
 	// fmt.Println(l.LengthOfLastWord("   fly me   to   the moon  "))
 	// fmt.Println(l.IsIsomorphic("foo", "bar"))
 	// fmt.Println(l.MaxDepth("(1+(2*3)+((8)/4))+1"))
-	fmt.Println(l.SingleNumber([]int{4, 4, 3,1, 2, 1, 2}))
+	// fmt.Println(l.SingleNumber([]int{4, 4, 3,1, 2, 1, 2}))
+	fmt.Println(l.RemoveKdigits("1432219", 3))
 }
