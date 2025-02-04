@@ -37,9 +37,5 @@ func MaxAscendingSum(nums []int) int {
 		}
 	}
 
-	// if maxSum < sum {
-	//     maxSum = sum
-	// }
-
 	return maxSum
 }
