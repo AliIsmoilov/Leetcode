@@ -1,0 +1,55 @@
+Day 1:
+    Focus on Go's unique features (goroutines, channels, interfaces, slices, maps)
+
+        Threads, Process
+        Concurrency vs parallelism
+        Go's Concurrency Model:
+        Understand goroutines and channels in-depth.
+        Review synchronization patterns (e.g., sync.Mutex, sync.WaitGroup, select).
+        Implement simple concurrency tasks using goroutines.
+    
+
+
+Day 2: 
+    Relational Databases:
+        - Learn SQL joins, aggregations, indexes.
+        - Everything about Microservices Architecture
+
+
+Day 3: 
+    -   Docker and Docker Compose
+    -   HTTP, HTTP statuses ..
+    -   different api types
+    -   Everything about grpc and why it's needed
+
+
+Day 4: 
+    -   Message Brokers
+    -   Kafka, RabbitMQ
+    -   Understand the role of message brokers in microservices architecture.
+    -   Implement a simple producer-consumer example using Kafka or RabbitMQ in Go.
+    -   Learn about message queues, topics, and consumer groups.
+
+
+Day 5: 
+    Algorithms and Data Structures:
+        - Review common data structures (arrays, linked lists, stacks, queues, hash maps, trees, and graphs).
+        - Focus on algorithm complexity analysis (Big-O notation).
+        - Solve common algorithmic problems (sorting, searching, recursion).
+        - Practice problems on platforms like LeetCode or HackerRank.
+
+
+
+
+
+
+
+
+
+
+
+
+Day 1:
+    - qandaydir gouroutine boshlangandan so'ng uni tugashi kutulmaydi va keyingi qatordagi kod ishlab ketaveradi.
+    - Boshqa goroutinelar ishlashi uchun assosiy goroutine ishlab turishi kerak.
+    - Golangda asosiy goroutine main funksiyasi hisoblanadi. 
