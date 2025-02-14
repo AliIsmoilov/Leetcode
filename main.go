@@ -19,5 +19,5 @@ func main() {
 	// fmt.Println(l.SingleNumber([]int{4, 4, 3,1, 2, 1, 2}))
 	// fmt.Println(l.RemoveKdigits("1432219", 3))
 	// fmt.Println(f.MaxAscendingSum([]int{10, 20, 30, 5, 10, 50}))
-	fmt.Println(f.MaximumSum([]int{10,12,19,14}))
+	fmt.Println(f.MinOperations([]int{2, 11, 10, 1, 3}, 10))
 }
